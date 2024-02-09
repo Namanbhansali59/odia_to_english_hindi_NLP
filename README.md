@@ -27,7 +27,7 @@ Ensure you have the following installed:
    
    cd language-translation-gui
    
-3. Run the scrip
+3. Run the script
 
   python main.py
 
